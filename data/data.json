@@ -1,0 +1,10 @@
+{
+    "h_name": "Супер слложный вопрос",
+    "blocks": [
+      { "title": "1 ответ", "content": "Ответ 1?", "is_active": true },
+      { "title": "2 ответ", "content": "может этот?", "is_active": false },
+      { "title": "3 ответ", "content": "Ладно, вот этот", "is_active": true },
+      { "title": "4 ответ", "content": "Ну и супер ласт...", "is_active": false }
+    ]
+  }
+  
